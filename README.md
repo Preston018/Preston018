@@ -2,11 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=HELLO-nl-EVERYONE!&animation=fadeIn&fontAlign=30,60&fontAlignY=35,55"/>
 </p>
 
-<h2>Connect with me and let's chat!</h2>
+<h2 align="center">Connect with me and let's chat!</h2>
 
-<a href="https://www.linkedin.com/in/preston-hung-lashley-222236292/">
-  <img width="75" height="75" alt="linkedin logo" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/preston-hung-lashley-222236292/">
+    <img width="75" height="75" alt="linkedin logo" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
+  </a>
+</p>
 
 <br>
 
@@ -56,9 +58,7 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="azuredevops" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cosmosdb/cosmosdb-plain-wordmark.svg" alt="cosmosdb" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="json" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
