@@ -4,11 +4,11 @@
 
 <h2>Connect with me and let's chat!</h2>
 
-<br>
-
 <a href="https://www.linkedin.com/in/preston-hung-lashley-222236292/">
   <img width="75" height="75" alt="linkedin logo" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
 </a>
+
+<br>
 
 <p align="center">
   <img width="1000" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNwdDhjYnRmMThxMHR1Yjk3dWc2bnJ2OXJoMHQxdWQ0b3AwcHdnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EatwJZRUIv41G/giphy.gif"/>
