@@ -21,7 +21,7 @@
 ```yaml
 name: Preston Hung-Lashley
 location: Toronto, Ontario
-current_job: student
+current_job: Student
 current_university: University of Toronto Scarborough
 current_program: Computer Science w/ Software Engineering Specialization
 
