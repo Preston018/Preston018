@@ -1,13 +1,11 @@
-## Hi there 👋
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=HELLO-nl-EVERYONE&animation=fadeIn&fontAlign=30,60&fontAlignY=35,55"/>
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=HELLO-nl-EVERYONE!&animation=fadeIn&fontAlign=30,60&fontAlignY=35,55"/>
 </p>
 
 <h2>Connect with me and let's chat!</h2>
 
 <a href="https://www.linkedin.com/in/preston-hung-lashley-222236292/">
-  <img width="3500" height="3500" alt="image" src="https://github.com/user-attachments/assets/6b743f24-9d27-4f20-b0aa-c1b50c9809a4"/>
+  <img width="350" height="350" alt="linkedin logo" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
 </a>
 
 <p align="center">
