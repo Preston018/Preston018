@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNwdDhjYnRmMThxMHR1Yjk3dWc2bnJ2OXJoMHQxdWQ0b3AwcHdnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EatwJZRUIv41G/giphy.gif"/>
+  <img width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNwdDhjYnRmMThxMHR1Yjk3dWc2bnJ2OXJoMHQxdWQ0b3AwcHdnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EatwJZRUIv41G/giphy.gif"/>
 </p>
 
 <h4>A little bit about me:</h4>
