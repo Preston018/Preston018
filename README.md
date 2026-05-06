@@ -5,7 +5,7 @@
 <h2>Connect with me and let's chat!</h2>
 
 <a href="https://www.linkedin.com/in/preston-hung-lashley-222236292/">
-  <img width="350" height="350" alt="linkedin logo" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
+  <img width="35" height="35" alt="linkedin logo" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"/>
 </a>
 
 <p align="center">
