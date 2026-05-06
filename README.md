@@ -4,6 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=speech-nl-bubble&animation=blinking&fontAlign=30,60&fontAlignY=35,55"/>
+
 <!--
 **Preston018/Preston018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
